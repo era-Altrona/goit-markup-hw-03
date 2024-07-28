@@ -223,7 +223,7 @@ p {
 
 .list-team {
     background-color: var(--white);
-  
+border-radius: 0px 0px 4px 4px;
 }
 
 h2 {
@@ -348,10 +348,11 @@ p {
     }
 .team-info {
     display: block;
-    border-radius: 0px 0px 4px 4px;
+    
     }
 .our-portfolio {
     padding: 120px 0;
+    border: 1px solid var(--cornflower);
 }
 .portfolio {
     display: flex;
