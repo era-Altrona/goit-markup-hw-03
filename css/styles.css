@@ -352,7 +352,8 @@ p {
     }
 .our-portfolio {
     padding: 120px 0;
-    border: 1px solid var(--cornflower);
+    border: 1px solid #e7e9fc;
+    
 }
 .portfolio {
     display: flex;
